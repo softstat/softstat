@@ -27,7 +27,7 @@
 - 빅데이터 분석기사(예정)
 
 > **Scholarship**
-- CAU GRS(full Scholarship) in Master's Course
+- Full CAU Graduate Scholarship in Master's Course
 
 ## 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=blue"/> <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=IBM&logoColor=black"/> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white">
