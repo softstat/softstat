@@ -1,7 +1,7 @@
 ##  Hi, I'm MinSeok Kim
 > **Major** 
--  🎓 **중앙대학교 응용통계학과** 학사 과정(2018.03~2024.02)
--  🎓 **중앙대학교 통계데이터사이언스학과** 석사 과정(2024.03 ~ )
+-  🎓 **중앙대학교 응용통계학과** 학사 과정 (2018.03 ~ 2024.02)
+-  🎓 **중앙대학교 통계데이터사이언스학과** 석사 과정 (2024.03 ~ )
 </br>
 
 > **Experience**
@@ -22,6 +22,7 @@
 > **Certificate**
 - 한국사 능력검정 시험 1급(2020)
 - 사회조사 분석사 2급(2021)
+- 컴퓨터 활용능력 1급(2022)
 - ADSP
 - SQLD
 - 빅데이터 분석기사(예정)
@@ -33,6 +34,3 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=blue"/> <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=IBM&logoColor=black"/> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white">
 
 </br></br>
-
-
-## 📑 About Me
