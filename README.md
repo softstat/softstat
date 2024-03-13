@@ -4,6 +4,12 @@
 -  🎓 **중앙대학교 통계데이터사이언스학과** 석사 과정 `2024.03 ~ current`
 </br>
 
+
+> **Interest**
+- Survival Analysis
+- BioStatistics
+- Casual Inference
+
 > **Experience**
 - 📣 응용통계학과 35대 학생회장 `2022.12 ~ 2023.11`
 - 💭 중앙대학교 응용통계학과 생존분석 연구실(BLDA LAB) 학부연구생  `2023.04 ~ 2024.02`
