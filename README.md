@@ -8,7 +8,7 @@
 > **Interest**
 - Survival Analysis
 - BioStatistics
-- Casual Inference
+- Causal Inference
 
 > **Experience**
 - 📣 응용통계학과 35대 학생회장 `2022.12 ~ 2023.11`
