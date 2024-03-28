@@ -26,7 +26,6 @@
 -> 주성분분석(Principal Component Analysis)기법을 이용한 균형 및 보행 능력 평가 방법
     
 > **Paper** 
-- "Stroke Walking and Balance Characteristics via Principal Component Analysis" - Co-Author
 </br>
 
 > **Certificate**
