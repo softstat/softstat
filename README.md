@@ -42,4 +42,6 @@
 ## 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=blue"/> <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=IBM&logoColor=black"/> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white">
 
+
+[![softstat's GitHub stats](https://github-readme-stats.vercel.app/api?username=softstat)](https://github.com/softstat/github-readme-stats)
 </br></br>
