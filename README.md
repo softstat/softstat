@@ -27,7 +27,7 @@
     
 > **Paper** 
 </br>
-
+Stroke walking and balance characterisitcs via principal component analysis(https://doi.org/10.1038/s41598-024-60943-5)
 > **Certificate**
 - 한국사 능력검정 시험 1급(2020)
 - 사회조사 분석사 2급(2021)
