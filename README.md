@@ -35,7 +35,7 @@
 - 컴퓨터 활용능력 1급
 - ADSP
 - SQLD
-- 빅데이터 분석기사(예정)
+- 빅데이터 분석기사
 
 > **Scholarship**
 - Full CAU Graduate Scholarship in Master's Course
