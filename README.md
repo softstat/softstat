@@ -28,7 +28,7 @@
 > **Paper**
 
 [Stroke walking and balance characterisitcs via principal component analysis](https://doi.org/10.1038/s41598-024-60943-5)
-
+[Standing balance test predicts the Berg Balance Scale score in patients with stroke using principal component analysis](https://www.nature.com/articles/s41598-025-99710-5)
 > **Certificate**
 - 한국사 능력검정 시험 1급
 - 사회조사 분석사 2급
