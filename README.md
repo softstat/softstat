@@ -1,7 +1,7 @@
 ##  Hi, I'm MinSeok Kim
 > **Major** 
 -  🎓 **중앙대학교 응용통계학과** 학사 과정 `2018.03 ~ 2024.02`
--  🎓 **중앙대학교 통계데이터사이언스학과** 석사 과정 `2024.03 ~ current`
+-  🎓 **중앙대학교 통계데이터사이언스학과** 석사 과정 `2024.03 ~ 2026.02`
 </br>
 
 
@@ -13,7 +13,7 @@
 > **Experience**
 - 📣 응용통계학과 35대 학생회장 `2022.12 ~ 2023.11`
 - 💭 중앙대학교 응용통계학과 생존분석 연구실(BLDA LAB) 학부연구생  `2023.04 ~ 2024.02`
-- 💭 중앙대학교 응용통계학과 생존분석 연구실(BLDA LAB) 구성원 `2024.03 ~ current`
+- 💭 중앙대학교 응용통계학과 생존분석 연구실(BLDA LAB) 구성원 `2024.03 ~ 2026.02`
 </br>
 
 > **Projects**
@@ -31,6 +31,14 @@
 
 [Standing balance test predicts the Berg Balance Scale score in patients with stroke using principal component analysis](https://www.nature.com/articles/s41598-025-99710-5)
 
+[Comparison of Overall Survival After Open vs. Robot-Assisted Radical Cystectomy : A Target Trial Emulation Approach to Mitigate Immortal Time Bias](Accepted)
+
+[Graph Attention Neural Networks for Survival Analysis of Default in Peer to_Peer Lending] -> My Graudate Paper
+
+[Oncological and Perioperative Outcomes of Robot-Assisted Radical Cystectomy: A Real-World Cohort Study Using Cloning Approach](Currently prepared)
+
+[Machine Learning for Gait Data: Improved Classification of Balance Status Using Multivariate Functional PCA Combined with the Square-Root Velocity Framework](Currently prepared)
+-> I participated Korean Statistical society poster competition in 2025.12
 > **Certificate**
 - 한국사 능력검정 시험 1급
 - 사회조사 분석사 2급
