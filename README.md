@@ -67,8 +67,3 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinSeok-Kim-YourID&show_icons=true&theme=radical" alt="MinSeok's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSeok-Kim-YourID&layout=compact&theme=radical" alt="Top Languages" />
-</p>
