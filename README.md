@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="mailto:ipad3912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://scholar.google.com/jiLS9akAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white"/></a>
+  <a href="https://scholar.google.com/user=jiLS9akAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white"/></a>
   
 </p>
 
