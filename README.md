@@ -1,58 +1,74 @@
-##  Hi, I'm MinSeok Kim
-> **Major** 
--  🎓 **중앙대학교 응용통계학과** 학사 과정 `2018.03 ~ 2024.02`
--  🎓 **중앙대학교 통계데이터사이언스학과** 석사 과정 `2024.03 ~ 2026.02`
-</br>
+# 👋 Hello, I'm MinSeok Kim 
+### 📊 Statistical Data Scientist | Biostatistics & Survival Analysis Researcher
 
+<p align="left">
+  <a href="mailto:이메일주소@cau.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://scholar.google.com/YourScholarID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YourID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+</p>
 
-> **Interest**
-- Survival Analysis
-- BioStatistics
-- Causal Inference
+---
 
-> **Experience**
-- 📣 응용통계학과 35대 학생회장 `2022.12 ~ 2023.11`
-- 💭 중앙대학교 응용통계학과 생존분석 연구실(BLDA LAB) 학부연구생  `2023.04 ~ 2024.02`
-- 💭 중앙대학교 응용통계학과 생존분석 연구실(BLDA LAB) 구성원 `2024.03 ~ 2026.02`
-</br>
+## 🎓 Education
+- **M.S. in Statistics and Data Science**, Chung-Ang University (`2024.03 - 2026.02`)
+  - *Full CAU Graduate Scholarship*
+- **B.S. in Applied Statistics**, Chung-Ang University (`2018.03 - 2024.02`)
 
-> **Projects**
-- ⚡ 권역별 클러스터링을 활용한 무선충전 고속도로 입지 분석 `2022.10 ~ 2022.12`
-- 💰 대출상품 신청여부 예측(2022 빅콘테스트) `2022.08 ~ 2022.10`
-- 📃 AI 자기소개서 분석(한이음) `2022.04 ~ 2022.11`
-- 😷 국내 체육시설을 이용한 감기 환자수 예측 및 분류(AI 머신러닝) `2023.11 ~ 2023.12`
-- 🏥 중추신경계 환자의 낙상예방을 위한 멀티센서 기반 인공지능 알고리즘 활용(보건복지부 국립재활원 과제) `2023.07 ~ 2024.01`
+## 🔍 Research Interests
+> "데이터를 통해 생명과 사회의 인과관계를 증명합니다."
+- **Survival Analysis**: 고도화된 생존 시간 모델링 및 GAT 기반 예측
+- **Biostatistics**: 의료 임상 데이터 및 센서 기반 보행 분석
+- **Causal Inference**: Target Trial Emulation을 활용한 인과 추론
 
--> 주성분분석(Principal Component Analysis)기법을 이용한 균형 및 보행 능력 평가 방법
-    
-> **Paper**
+---
 
-[Stroke walking and balance characterisitcs via principal component analysis](https://doi.org/10.1038/s41598-024-60943-5)
+## 🛠️ Tech Stack
+### **Languages & Analysis Tools**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/SAS-00487C?style=for-the-badge&logo=SAS&logoColor=white"> <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=IBM&logoColor=white">
 
-[Standing balance test predicts the Berg Balance Scale score in patients with stroke using principal component analysis](https://www.nature.com/articles/s41598-025-99710-5)
+### **Data & DevOps**
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
-[Comparison of Overall Survival After Open vs. Robot-Assisted Radical Cystectomy : A Target Trial Emulation Approach to Mitigate Immortal Time Bias](Accepted)
+---
 
-[Graph Attention Neural Networks for Survival Analysis of Default in Peer to_Peer Lending] -> My Graudate Paper
+## 📝 Academic Papers
+<details>
+<summary><b>📄 Published / Accepted (Click to expand)</b></summary>
 
-[Oncological and Perioperative Outcomes of Robot-Assisted Radical Cystectomy: A Real-World Cohort Study Using Cloning Approach](Currently prepared)
+1. **[Nature Scientific Reports]** [Stroke walking and balance characteristics via PCA](https://doi.org/10.1038/s41598-024-60943-5)
+2. **[Nature Scientific Reports]** [Standing balance test predicts the BBS score in patients with stroke](https://www.nature.com/articles/s41598-025-99710-5)
+3. **[Accepted]** *Comparison of Overall Survival After Open vs. Robot-Assisted Radical Cystectomy: A Target Trial Emulation*
+</details>
 
-[Machine Learning for Gait Data: Improved Classification of Balance Status Using Multivariate Functional PCA Combined with the Square-Root Velocity Framework](Currently prepared)
--> I participated Korean Statistical society poster competition in 2025.12
-> **Certificate**
-- 한국사 능력검정 시험 1급
-- 사회조사 분석사 2급
-- 컴퓨터 활용능력 1급
-- ADSP
-- SQLD
-- 빅데이터 분석기사
+<details>
+<summary><b>✍️ In Progress / Master's Thesis</b></summary>
 
-> **Scholarship**
-- Full CAU Graduate Scholarship in Master's Course
+- **[Master's Thesis]** *Graph Attention Neural Networks for Survival Analysis of Default in Peer-to-Peer Lending*
+- **[Preparing]** *Oncological Outcomes of RARC: A Real-World Cohort Study Using Cloning Approach*
+- **[Preparing]** *Machine Learning for Gait Data: Improved Classification Using Multivariate Functional PCA*
+</details>
 
-## 🛠️ Tech Stack 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=blue"/> <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=IBM&logoColor=black"/> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white">
+---
 
+## 🚀 Key Projects
+| Period | Project Title | Role/Focus |
+| :--- | :--- | :--- |
+| '23.07 - '24.01 | **국립재활원: 낙상예방 AI 알고리즘** | PCA 기반 보행 능력 평가 모델링 |
+| '23.11 - '23.12 | **감기 환자수 예측 및 분류** | 머신러닝 기반 시계열 예측 |
+| '22.10 - '22.12 | **무선충전 고속도로 입지 분석** | 권역별 클러스터링 활용 |
+| '22.08 - '22.10 | **2022 빅콘테스트: 대출신청 예측** | 분류 모델링 및 피처 엔지니어링 |
 
-[![softstat's GitHub stats](https://github-readme-stats.vercel.app/api?username=softstat)](https://github.com/softstat/github-readme-stats)
-</br></br>
+---
+
+## 🏆 Certifications & Others
+- **Data & Analysis**: ADsP, SQLD, 빅데이터분석기사, 사회조사분석사 2급
+- **Others**: 한국사능력검정시험 1급, 컴퓨터활용능력 1급
+- **Leadership**: 제35대 응용통계학과 학생회장 (`2022.12 - 2023.11`)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinSeok-Kim-YourID&show_icons=true&theme=radical" alt="MinSeok's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinSeok-Kim-YourID&layout=compact&theme=radical" alt="Top Languages" />
+</p>
