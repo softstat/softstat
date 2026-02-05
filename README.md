@@ -12,8 +12,9 @@
 ## 🎓 Education
 - **M.S. in Statistics and Data Science**, Chung-Ang University (`2024.03 - 2026.02`)
   - *Full CAU Graduate Scholarship*
+  - GPA : 4.35 / 4.5
 - **B.S. in Applied Statistics**, Chung-Ang University (`2018.03 - 2024.02`)
-
+   - GPA : 3.93 / 4.5
 ## 🔍 Research Interests
 > "데이터를 통해 생명과 사회의 인과관계를 증명합니다."
 - **Survival Analysis**: 고도화된 생존 시간 모델링 및 GAT 기반 예측
