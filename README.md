@@ -45,7 +45,7 @@
 
 - **[Master's Thesis]** *Graph Attention Neural Networks for Survival Analysis of Default in Peer-to-Peer Lending*
 - **[Preparing]** *Oncological Outcomes of RARC: A Real-World Cohort Study Using Cloning Approach*
-- **[Preparing]** *Machine Learning for Gait Data: Improved Classification Using Multivariate Functional PCA*
+- **[Preparing]** *Machine Learning for Gait Data: Improved Classification Using Multivariate Functional PCA combined with square root velocity framework*
 </details>
 
 ---
